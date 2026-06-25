@@ -3,7 +3,7 @@
 Análisis exploratorio de datos (EDA) sobre datos operativos reales de una planta de flotación inversa de mineral de hierro. El proyecto diagnostica la calidad de los datos, caracteriza el comportamiento del proceso e identifica qué variables se asocian a la variabilidad del **% de sílice en el concentrado final**, la medida de calidad comercial del producto.
 
 **Autor:** Jesús Muñoz Sánchez — Ingeniero Industrial | Análisis de Datos
-[LinkedIn](https://www.linkedin.com/in/jesus-munoz-sanchez/) · [GitHub](https://github.com/jesus3099jms3099/eda-planta-flotacion-hierro)
+[LinkedIn](https://www.linkedin.com/in/j-munoz-ind/) · [GitHub](https://github.com/jmunoz-ind/eda-planta-flotacion-hierro)
 
 ---
 
@@ -57,7 +57,7 @@ El análisis tiene la siguiente estructura:
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/jesus3099jms3099/eda-planta-flotacion-hierro.git
+   git clone https://github.com/jmunoz-ind/eda-planta-flotacion-hierro.git
    cd eda-planta-flotacion-hierro
    ```
 2. Instalar las dependencias:
